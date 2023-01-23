@@ -338,7 +338,7 @@ function googleTranslateElementInit() {
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-aZ3qtmWO0HW3nFgdmje4vxCW7OXW6VCSsq5HmSOaMdw" value="form-aZ3qtmWO0HW3nFgdmje4vxCW7OXW6VCSsq5HmSOaMdw"  />
+<input type="hidden" name="form_build_id" id="form-gTQEk1DjN3CR6F_mr73nmN4jfhhkaGlAkx5KEdtPtYM" value="form-gTQEk1DjN3CR6F_mr73nmN4jfhhkaGlAkx5KEdtPtYM"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 
 </div></form>
